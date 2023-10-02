@@ -1,4 +1,3 @@
-aiohttp==3.8.2
 Pillow
 psutil
 hachoir
